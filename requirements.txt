@@ -1,10 +1,7 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import folium 
-from folium.plugins import HeatMap
-import seaborn as sns
-import geopandas as gpd
-import shapely
-from shapely.geometry import *
-from shapely import wkt
+streamlit
+pandas
+plotly.express
+folium 
+seaborn
+geopandas
+shapely
